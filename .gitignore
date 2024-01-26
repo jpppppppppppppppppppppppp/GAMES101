@@ -1,4 +1,12 @@
 hw0/build/*
+hw0/.vscode/*
+hw0/cmake-build-debug/*
 hw1/build/*
+hw1/.vscode/*
+hw1/cmake-build-debug/*
 hw2/build/*
+hw2/.vscode/*
+hw2/cmake-build-debug/*
 hw3/build/*
+hw3/.vscode/*
+hw3/cmake-build-debug/*
