@@ -1,3 +1,0 @@
-/home/cs18/Desktop/GAMES101/3/Code/build/CMakeFiles/rebuild_cache.dir
-/home/cs18/Desktop/GAMES101/3/Code/build/CMakeFiles/Rasterizer.dir
-/home/cs18/Desktop/GAMES101/3/Code/build/CMakeFiles/edit_cache.dir
