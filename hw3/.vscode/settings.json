@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "core": "cpp",
+        "array": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp",
+        "iterator": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
