@@ -1,4 +1,4 @@
-./hw0/build
-./hw1/build
-./hw2/build
-./hw3/build
+hw0/build/*
+hw1/build/*
+hw2/build/*
+hw3/build/*
